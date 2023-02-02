@@ -702,7 +702,16 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   color: #8e8f99;
   margin-bottom: 4px;
 }
-
-/* .modal-icon{
-  fill: ffffff;
-} */
+.subscribe-button{
+  width: 165px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px, 24px, 8px, 24px;
+  border-radius: 4px;
+}
+.subscribe-input{
+  width: 264px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #2E2F42;
+}
