@@ -689,6 +689,10 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   border-radius: 4px;
   padding-left: 38px;
 }
+.modal-field{
+  
+  
+}
 .modal-form-field{
  margin-bottom: 8px;;
   /* color: #8e8f99;   */
@@ -714,4 +718,13 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   height: 40px;
   border-radius: 4px;
   background-color: #2E2F42;
+}
+.modal-input-icon{
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform:translateY(-50%) ;
+ }
+.input-wrap{
+  position: relative;
 }
